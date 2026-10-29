@@ -1,0 +1,8 @@
+# core
+numpy>=1.24
+pandas>=2.0
+torch>=2.0
+matplotlib>=3.7
+
+# data source (only needed for --source yfinance)
+yfinance>=0.2.40
